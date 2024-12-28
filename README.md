@@ -85,3 +85,6 @@ Implementing these recommendations will:
 
 ## Conclusion  
 By addressing these challenges and adopting the proposed solutions, the **Kisan Call Center** can transform into a vital resource for farmers in Rajasthan. These efforts will empower farmers to tackle their challenges effectively, enhance their agricultural productivity, and secure sustainable livelihoods for the future.  
+
+![Screenshot](relative/path/to/Screenshot%202024-12-28%20192723.png)
+
