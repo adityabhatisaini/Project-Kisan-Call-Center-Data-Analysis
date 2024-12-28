@@ -88,7 +88,14 @@ By addressing these challenges and adopting the proposed solutions, the **Kisan 
 
 ![img1](Screenshot%202024-12-28%20192723.png)
 
-![Alt text](Screenshot%2024-12-28%192750.png)
+![img2](Screenshot%202024-12-28%20192750.png)
+
+![img3](Screenshot%202024-12-28%20192904.png)
+
+![img4](Screenshot%202024-12-28%20193208.png)
+
+
+
 
 
 
