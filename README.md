@@ -3,6 +3,15 @@
 ## Overview  
 As part of a project assigned by my institute, I analyzed data to address a significant social issue. Coming from a farming family in Rajasthan, I chose to focus on understanding and solving the challenges faced by farmers in the state. To achieve this, I requested access to farmer-related queries from the **Indian National Data Portal**. I received the latest year of 2024 query data from the **Kisan Call Center** for Rajasthan. Despite the textual format of the data, I analyzed it and derived valuable insights that could significantly benefit the agricultural community.  
 
+
+![img1](Screenshot%202024-12-28%20192723.png)
+
+![img2](Screenshot%202024-12-28%20192750.png)
+
+![img3](Screenshot%202024-12-28%20192904.png)
+
+![img4](Screenshot%202024-12-28%20193208.png)
+
 ---
 
 ## Data Analysis  
@@ -86,13 +95,7 @@ Implementing these recommendations will:
 ## Conclusion  
 By addressing these challenges and adopting the proposed solutions, the **Kisan Call Center** can transform into a vital resource for farmers in Rajasthan. These efforts will empower farmers to tackle their challenges effectively, enhance their agricultural productivity, and secure sustainable livelihoods for the future.  
 
-![img1](Screenshot%202024-12-28%20192723.png)
 
-![img2](Screenshot%202024-12-28%20192750.png)
-
-![img3](Screenshot%202024-12-28%20192904.png)
-
-![img4](Screenshot%202024-12-28%20193208.png)
 
 
 
