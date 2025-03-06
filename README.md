@@ -4,7 +4,7 @@
 As part of a project assigned by my institute, I analyzed data to address a significant social issue. Coming from a farming family in Rajasthan, I chose to focus on understanding and solving the challenges faced by farmers in the state. To achieve this, I requested access to farmer-related queries from the **Indian National Data Portal**. I received the latest year of 2024 query data from the **Kisan Call Center** for Rajasthan. Despite the textual format of the data, I analyzed it and derived valuable insights that could significantly benefit the agricultural community.  
 
 
-![img1](Screenshot%202024-12-28%20192723.png)
+![img1](Screenshot2025-03-06153623.png)
 
 ![img2](Screenshot%202024-12-28%20192750.png)
 
